@@ -1,2 +1,3 @@
 this is my camera feature
+ added another feature to my camera: panorama
 
